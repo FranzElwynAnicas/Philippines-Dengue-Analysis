@@ -20,17 +20,4 @@ This project analyzes the dengue cases and deaths in the Philippines over the pe
 ### 1. Clone the repository
 
 ```bash
-git clone h
-
-### 2. Create and activate virtual environment
-
-```bash
-python -m venv .vemv
-.venv\Scripts\activate`
-
-### 3. Install the Dependencies
-
-```bash
-pip install -r requirements.txt
-
-### 4. Run the streamlit App
+git clone https://github.com/FranzElwynAnicas/Philippines-Dengue-Analysis.git
